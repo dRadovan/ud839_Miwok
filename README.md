@@ -1,6 +1,8 @@
 Miwok App
 ===================================
 
+Miwok is the companion Android app for the Udacity course [Android Basics: Multiscreen Apps](https://eu.udacity.com/course/android-basics-multiscreen-apps--ud839).
+
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 Used in a Udacity course in the Beginning Android Nanodegree.
 
